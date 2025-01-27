@@ -1,1 +1,3 @@
 # Prog1-NHF
+
+Nem igazán tudom, hogy hol van az a verzió, ami működik is...
