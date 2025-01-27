@@ -1,0 +1,9 @@
+! IMPORTANT !
+If you change the control layout from here, the file may be corrupted.
+You can reset this file using "Reset Pac-Man CMD settings.exe". (Does not restore level files!)
+
+Control layout:
+0: w
+1: s
+2: a
+3: d

@@ -1,0 +1,101 @@
+// L1 Visible map:
+// Double lines with: 'ABC', Normal lines with: 'NUMS' (123), Blocks with: 'UNDERLS' (_)
+abbbbbbbbbbbbbbbbbbbbbbbbbgbgbbbbbbbbbbbbbbbbbbbbbbbbbc
+f                         6 6                         f
+f   1222223   122222223   6 6   122222223   1222223   f
+f   6     6   6       6   6 6   6       6   6     6   f
+f   5222224   522222224   524   522222224   5222224   f
+f                                                     f
+f   1222223   123   122222222222223   123   1222223   f
+f   5222224   6 6   5222223 1222224   6 6   5222224   f
+f             6 6         6 6         6 6             f
+dbbbbbbbbbc   6 5222223   6 6   1222224 6   abbbbbbbbbe
+          f   6 1222224   524   5222223 6   f          
+          f   6 6                     6 6   f          
+          f   6 6   abbb_ 222 _bbb    6 6   f          
+bbbbbbbbbbe   524   f             f   524   dbbbbbbbbbb
+                    f             f                    
+bbbbbbbbbbc   123   f             f   123   abbbbbbbbbb
+          f   6 6   dbbbbbbbbbbbbbe   6 6   f          
+          f   6 6                     6 6   f          
+          f   6 6   122222222222223   6 6   f          
+abbbbbbbbbe   524   5222223 1222224   524   dbbbbbbbbbc
+f                         6 6                         f
+f   1222223   122222223   6 6   122222223   1222223   f
+f   52223 6   522222224   524   522222224   6 12224   f
+f       6 6                                 6 6       f
+i2223   6 6   123   122222222222223   123   6 6   1222h
+i2224   524   6 6   5222223 1222224   6 6   524   5222h
+f             6 6         6 6         6 6             f
+f   12222222224 5222223   6 6   1222224 52222222223   f
+f   5222222222222222224   524   5222222222222222224   f
+f                                                     f
+dbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbe
+:::
+// L2 Collectibles map:
+// Coins with: 'X', Boosters with: 'B'
+                                                       
+  X X X X X X X X X X X X     X X X X X X X X X X X X  
+  X         X           X     X           X         X  
+  B         X           X     X           X         B  
+  X         X           X     X           X         X  
+  X X X X X X X X X X X X X X X X X X X X X X X X X X  
+  X         X     X                 X     X         X  
+  X         X     X                 X     X         X  
+  X X X X X X     X X X X     X X X X     X X X X X X  
+            X                             X            
+            X                             X            
+            X                             X            
+            X                             X            
+            X                             X            
+            X                             X            
+            X                             X            
+            X                             X            
+            X                             X            
+            X                             X            
+            X                             X            
+  X X X X X X X X X X X X     X X X X X X X X X X X X  
+  X         X           X     X           X         X  
+  X         X           X     X           X         X  
+  B X X     X X X X X X X X X X X X X X X X     X X B  
+      X     X     X                 X     X     X      
+      X     X     X                 X     X     X      
+  X X X X X X     X X X X     X X X X     X X X X X X  
+  X                     X     X                     X  
+  X                     X     X                     X  
+  X X X X X X X X X X X X X X X X X X X X X X X X X X  
+                                                       
+:::
+// L3 Graph map:
+// Vertexes with: 'V', Directions with: 'x', Portals with: 'p'
+                                                       
+  Vx       xVx         xV     Vx         xVx       xV  
+  x         x           x     x           x         x  
+                                                       
+  x         x           x     x           x         x  
+  Vx       xVx   xVx   xVx   xVx   xVx   xVx       xV  
+  x         x     x                 x     x         x  
+  x         x     x                 x     x         x  
+  Vx       xV     Vx   xV     Vx   xV     Vx       xV  
+            x           x     x           x            
+                        x     x                        
+                  Vx   xVx   xVx   xV                  
+                  x                 x                  
+            x     x     V  V  V     x     x            
+p          xVx   xV     x  x  x     Vx   xVx          p
+            x     x     V  V  V     x     x            
+                  x                 x                  
+                  Vx               xV                  
+                  x                 x                  
+            x     x                 x     x            
+  Vx       xVx   xVx   xV     Vx   xVx   xVx       xV  
+  x         x           x     x           x         x  
+  x         x           x     x           x         x  
+  Vx xV     Vx   xVx   xVx   xVx   xVx   xV     Vx xV  
+      x     x     x                 x     x     x      
+      x     x     x                 x     x     x      
+  Vx xVx   xV     Vx   xV     Vx   xV     Vx   xVx xV  
+  x                     x     x                     x  
+  x                     x     x                     x  
+  Vx                   xVx   xVx                   xV  
+                                                       
